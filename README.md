@@ -1,2 +1,2 @@
 # Project
-i try the make a first project
+I try the make a first project
